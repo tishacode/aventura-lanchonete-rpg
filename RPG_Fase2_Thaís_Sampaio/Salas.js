@@ -1,5 +1,3 @@
-// Salas.js
-
 import { Item, Chave, Bilhete, Lanterna } from './Item.js';
 
 class Sala {

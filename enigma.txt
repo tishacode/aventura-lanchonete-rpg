@@ -1,0 +1,34 @@
+Jogo: O Mistério do Cofre da Lanchonete
+
+1. Tema
+Uma lanchonete aparentemente comum esconde um mistério: o antigo cofre do primeiro dono desapareceu misteriosamente. Rumores dizem que ele deixou um segredo guardado — e cabe a você, funcionário recém-contratado, desvendar esse enigma.
+
+2. História do Enigma
+Você começa seu turno de trabalho como em qualquer outro dia. No entanto, após uma queda de energia, você acorda sozinho, preso na lanchonete. Há pistas escondidas nas salas, objetos trancados e portas que exigem ferramentas específicas para abrir. Seu objetivo é encontrar o cofre e revelar seu conteúdo antes que o tempo acabe.
+
+3. Objetivo do Jogador
+Encontrar o cofre escondido e abri-lo usando os objetos corretos nas salas apropriadas. Ao final, descobrir a mensagem do antigo dono.
+
+4. Salas do Jogo
+- Cozinha: contém ingredientes e uma chave para o depósito.
+- Depósito: contém caixa de ferramentas e uma lanterna.
+- Escritório: documentos com pistas sobre o cofre.
+- Banheiro: contém um recado escondido no espelho.
+- Balcão: ponto de partida e onde fica o relógio do tempo.
+
+As salas são conectadas entre si e o jogador pode se locomover livremente entre elas usando comandos.
+
+5. Objetos e Ferramentas
+- Chave do depósito
+- Lanterna (necessária para entrar em sala escura)
+- Martelo (para quebrar parede falsa)
+- Código (descoberto por pistas em várias salas)
+- Alavanca (ativa painel do cofre)
+
+Todos os objetos devem ser coletados na mochila, que tem limite de 3 itens.
+
+6. Condição de Vitória
+Abrir o cofre com todos os itens e descobrir a mensagem secreta do antigo dono.
+
+7. Condição de Derrota
+Ficar sem espaço na mochila para itens essenciais ou usar objetos na ordem errada, o que bloqueia o acesso ao cofre.

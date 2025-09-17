@@ -1,5 +1,3 @@
-// Sala.js
-
 export class Sala {
   constructor(nome, descricao) {
     this.nome = nome;
