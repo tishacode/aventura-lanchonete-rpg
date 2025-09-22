@@ -1,34 +1,41 @@
 Jogo: O Mistério do Cofre da Lanchonete
 
 1. Tema
-Uma lanchonete aparentemente comum esconde um mistério: o antigo cofre do primeiro dono desapareceu misteriosamente. Rumores dizem que ele deixou um segredo guardado — e cabe a você, funcionário recém-contratado, desvendar esse enigma.
+Uma lanchonete aparentemente comum esconde um mistério: um antigo cofre trancado está no fundo da cozinha. Dizem que o primeiro dono deixou algo importante escondido lá. Agora, cabe a você — um funcionário recém-contratado — desvendar o segredo antes que fique preso para sempre nesse lugar silencioso e escuro.
 
 2. História do Enigma
-Você começa seu turno de trabalho como em qualquer outro dia. No entanto, após uma queda de energia, você acorda sozinho, preso na lanchonete. Há pistas escondidas nas salas, objetos trancados e portas que exigem ferramentas específicas para abrir. Seu objetivo é encontrar o cofre e revelar seu conteúdo antes que o tempo acabe.
+Você chega para mais um dia normal de trabalho, mas uma queda de energia misteriosa deixa tudo às escuras. Quando recobra os sentidos, está sozinho — trancado dentro da lanchonete.
+O ambiente está estranho. Há pistas escondidas, salas conectadas, e objetos que podem (ou não) ajudá-lo.
+Sua única saída parece ser descobrir o que há dentro do cofre...
+Mas onde está a chave?
 
 3. Objetivo do Jogador
-Encontrar o cofre escondido e abri-lo usando os objetos corretos nas salas apropriadas. Ao final, descobrir a mensagem do antigo dono.
+Explorar a lanchonete, coletar e usar os itens corretamente, resolver o enigma e abrir o cofre misterioso.
 
 4. Salas do Jogo
-- Cozinha: contém ingredientes e uma chave para o depósito.
-- Depósito: contém caixa de ferramentas e uma lanterna.
-- Escritório: documentos com pistas sobre o cofre.
-- Banheiro: contém um recado escondido no espelho.
-- Balcão: ponto de partida e onde fica o relógio do tempo.
+- Lanchonete:  Sala inicial. Mesas bagunçadas e um silêncio inquietante. Contém um bilhete com uma dica importante.
+- Cozinha: Há uma lanterna aparentemente sem utilidade. Tem acesso ao cofre.
+- Banheiro: Espelhos embaçados e sons misteriosos.
+- Despensa Escura: Quase invisível sem luz. Só com uma lanterna é possível ver algo ali.
+- Cofre: Sala trancada com um enigma final. Só pode ser aberto com a chave.
 
 As salas são conectadas entre si e o jogador pode se locomover livremente entre elas usando comandos.
 
 5. Objetos e Ferramentas
-- Chave do depósito
+- Chave: Item essencial para abrir o cofre e vencer o jogo.
 - Lanterna (necessária para entrar em sala escura)
-- Martelo (para quebrar parede falsa)
-- Código (descoberto por pistas em várias salas)
-- Alavanca (ativa painel do cofre)
+- Bilhete: Dica enigmática: "A resposta está onde a luz nunca apaga."
 
-Todos os objetos devem ser coletados na mochila, que tem limite de 3 itens.
+6. Comandos
+- O jogador pode usar comandos como:
+ajuda, ir [direção], olhar, pegar [item], usar [item], inventario, sair
+- Os itens devem ser usados nas salas corretas para revelarem pistas ou desbloquearem o final.
 
-6. Condição de Vitória
-Abrir o cofre com todos os itens e descobrir a mensagem secreta do antigo dono.
+7. Condição de Vitória
+Usar a lanterna na despensa para encontrar a chave e, por fim, usar a chave na sala do cofre para descobrir a mensagem final e vencer o jogo.
+Mensagem final:
+Você usou a chave para abrir o cofre... Dentro há um envelope com a solução do mistério!
+PARABÉNS! Você venceu o jogo!
 
-7. Condição de Derrota
-Ficar sem espaço na mochila para itens essenciais ou usar objetos na ordem errada, o que bloqueia o acesso ao cofre.
+8. Condição de Derrota
+O jogo permanece em loop até o jogador desistir ou usar os comandos de forma incorreta. Não há um sistema de tempo ou vidas, mas o progresso depende de usar os itens nas salas corretas.

@@ -1,4 +1,12 @@
 {
+  "name": "aventura-lanchonete-rpg",
+  "version": "1.0.0",
+  "description": "Jogo RPG: O Mistério do Cofre da Lanchonete",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
   "dependencies": {
     "bycontract": "^2.0.11",
     "prompt-sync": "^4.2.0"
